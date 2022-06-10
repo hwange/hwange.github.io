@@ -62,8 +62,8 @@
 [디자인과 색체]
 - 위로 올라가면서 점점 초목이 푸르러 지는 이쁜 디자인이다
 
-<img src="./img/어두움.jpg">
-<img src="./img/밝아짐.jpg">
+<img src="./img/어두움.PNG">
+<img src="./img/밝아짐.PNG">
 
 [음향]  
 - 긴장감을 줄 수 있는 음악으로 몰입감을 더했다.
@@ -84,7 +84,7 @@
 - 게임을 시작하느 Start 버튼이 있다. 
 - 게임을 종료하는 Quit 버튼이 있다.
 
-<img src="./img/메인화면.jpg">
+<img src="./img/메인화면.PNG">
 
 
 
@@ -102,7 +102,7 @@
 - 최상단에 GAME OVER 문구가 있다.
 - 게임을 종료하는 Quit 버튼이 있다.
 
-<img src="./img/종료화면.jpg">
+<img src="./img/종료화면.PNG">
 
 <br>
 
